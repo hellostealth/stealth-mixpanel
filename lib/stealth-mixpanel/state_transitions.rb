@@ -9,7 +9,6 @@ module Stealth
           'flow' => flow,
           'state' => state
         })
-        Stealth::Logger.l(topic: "mixpanel", message: "tracked.")
       end
 
       retval
