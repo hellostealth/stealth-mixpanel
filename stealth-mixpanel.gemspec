@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'stealth-mixpanel'
-  s.version     = '0.9.1'
+  s.version     = '0.9.2'
   s.date        = '2018-03-26'
   s.summary     = "Stealth Mixpanel"
   s.description = "Built-in state tracking for Stealth bots with Mixpanel."
