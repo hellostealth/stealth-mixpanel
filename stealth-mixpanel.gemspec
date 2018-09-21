@@ -12,6 +12,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'stealth', '< 2.0'
   s.add_dependency 'mixpanel-ruby', '~> 2.2'
 
-  s.add_development_dependency "rspec", "3.6.0"
+  s.add_development_dependency "rspec", "= 3.8.0"
 
 end
