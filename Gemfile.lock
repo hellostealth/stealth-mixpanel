@@ -19,7 +19,7 @@ GEM
     i18n (1.2.0)
       concurrent-ruby (~> 1.0)
     minitest (5.11.3)
-    mixpanel-ruby (2.2.0)
+    mixpanel-ruby (2.2.1)
     multi_json (1.13.1)
     mustermann (1.0.3)
     puma (3.12.0)
